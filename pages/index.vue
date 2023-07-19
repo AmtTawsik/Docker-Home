@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <HomeHero></HomeHero>
+    <HomeHighImpact></HomeHighImpact>
+    <HomeUltimate></HomeUltimate>
+    <HomeSlider></HomeSlider>
+    <HomeJoin></HomeJoin>
+  </div>
+</template>
